@@ -1,5 +1,5 @@
 # sfdc-login-custom
-Custom Login Page to demo
+Custom Login Page to demo in Communities
 
 
 <a href="https://githubsfdeploy.herokuapp.com">
