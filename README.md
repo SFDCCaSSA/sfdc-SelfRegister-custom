@@ -6,3 +6,5 @@ Custom Login Page to demo
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
+
+![ScreenShot](sfdc-login-custom.jpeg?raw=true)
